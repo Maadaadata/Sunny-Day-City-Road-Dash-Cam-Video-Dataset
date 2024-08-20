@@ -10,7 +10,7 @@ The "Sunny Day City Road Dash Cam Video Dataset" captures the vibrant
 
 ## Specification
 
-|  **Data Type**  |  Video  |
+|  **Data Type**  |  Image  |
 | --- | --- |
 |  **Volume**  |  About 4.5k annotated images  |
 |  **Data Collection**  |  Driving Recorders Images. Resolution is over 1920 x 1080 and the number of frames per second of the video is over 33.  |
